@@ -1,0 +1,68 @@
+
+STUDENT FEEDBACK ANALYSIS REPORT
+====================================================================
+Feedback records analyzed: 30
+
+Sentiment distribution:
+  Positive  : 9
+  Neutral   : 3
+  Negative  : 9
+  Mixed     : 9
+
+Topic frequency and negative/mixed mentions:
+  Infrastructure & Facilities            8 mentions | negative/mixed: 6
+  Teaching & Learning                    7 mentions | negative/mixed: 5
+  Examinations & Assessment              7 mentions | negative/mixed: 5
+  Student Support & Administration       7 mentions | negative/mixed: 4
+  Library Services                       7 mentions | negative/mixed: 2
+
+Recurring concern terms:
+  difficult           : 3
+  ignored             : 2
+  confusing           : 2
+  late                : 2
+  slow                : 2
+  broken              : 2
+  unfair              : 1
+  missing             : 1
+
+Individual predictions:
+01. [MIXED   ] [Teaching & Learning] The teacher explains difficult topics clearly and is very helpful.
+02. [NEGATIVE] [Teaching & Learning] The techer does not explain the concepts well, and doubts are ignored.
+03. [MIXED   ] [Teaching & Learning] Lectures are engaging, but practical sessions are confusing.
+04. [POSITIVE] [Teaching & Learning] The syllabus coverage is good and the professor is supportive.
+05. [NEGATIVE] [Examinations & Assessment] The exam timetable was changed late and the question paper was unfair.
+06. [POSITIVE] [Examinations & Assessment] Marks were released on time and the evaluation was fair.
+07. [MIXED   ] [Examinations & Assessment, Student Support & Administration] The examination was not difficult, but the result portal is slow.
+08. [NEGATIVE] [Examinations & Assessment] The internal marks are missing and the grading is inconsistent.
+09. [NEGATIVE] [Infrastructure & Facilities] The classroom fans are broken and the benches are uncomfortable.
+10. [POSITIVE] [Infrastructure & Facilities] Wi-Fi is reliable and the lab equipment is working well.
+11. [MIXED   ] [Infrastructure & Facilities] The washrooms are dirty, but the new drinking water facility is clean.
+12. [POSITIVE] [Library Services] The library has enough books and a quiet reading room.
+13. [NEGATIVE] [Library Services] The libary is crowded and many reference books are unavailable.
+14. [MIXED   ] [Library Services] Library hours are convenient, but borrowing books is difficult.
+15. [POSITIVE] [Student Support & Administration] The scholarship help desk was responsive and supportive.
+16. [NEGATIVE] [Student Support & Administration] My fee complaint was ignored and the student portal has errors.
+17. [POSITIVE] [Student Support & Administration] Career guidance is useful and placement support is improving.
+18. [MIXED   ] [Teaching & Learning, Examinations & Assessment] The teacher is helpful, but the examination paper was confusing.
+19. [POSITIVE] [Infrastructure & Facilities, Library Services] The classroom is clean and the library is not overcrowded.
+20. [NEGATIVE] [Infrastructure & Facilities, Student Support & Administration] The administration gave no response and the Wi-Fi is not working.
+21. [POSITIVE] [Teaching & Learning] The professor is not unhelpful and explains concepts clearly.
+22. [NEGATIVE] [Infrastructure & Facilities] The lab is not clean and the equipment is broken.
+23. [MIXED   ] [Examinations & Assessment] The exam was good, although the marks are late.
+24. [POSITIVE] [Library Services] The librarian is friendly and the library books are available.
+25. [MIXED   ] [Student Support & Administration] Student counselling is accessible, but the scholarship process is slow.
+26. [NEUTRAL ] [Library Services] The library opens at 9 AM on weekdays.
+27. [NEUTRAL ] [Examinations & Assessment, Student Support & Administration] The examination schedule is published on the portal.
+28. [MIXED   ] [Teaching & Learning, Infrastructure & Facilities] The lab is good but the teacher is not helpful.
+29. [NEUTRAL ] [Library Services] I never have trouble accessing the library.
+30. [NEGATIVE] [Infrastructure & Facilities] The projector has not been fixed for weeks.
+
+EVALUATION ON LABELLED SAMPLE DATA
+  Topic micro precision: 1.000
+  Topic micro recall:    1.000
+  Topic micro F1:        1.000
+  Topic exact match:     1.000
+  Sentiment accuracy:    0.967
+  Sentiment macro F1:    0.972
+  Reminder: sample comments are synthetic and curated, not real student data.

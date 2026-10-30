@@ -1,0 +1,10 @@
+test_multiple_topics (test_nlp_engine.TestStudentFeedbackNLP.test_multiple_topics) ... ok
+test_negation (test_nlp_engine.TestStudentFeedbackNLP.test_negation) ... ok
+test_neutral (test_nlp_engine.TestStudentFeedbackNLP.test_neutral) ... ok
+test_sample_dataset_loads (test_nlp_engine.TestStudentFeedbackNLP.test_sample_dataset_loads) ... ok
+test_spelling_correction_and_topic (test_nlp_engine.TestStudentFeedbackNLP.test_spelling_correction_and_topic) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.012s
+
+OK

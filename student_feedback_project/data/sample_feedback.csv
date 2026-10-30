@@ -1,0 +1,31 @@
+id,feedback,expected_topics,expected_sentiment
+1,"The teacher explains difficult topics clearly and is very helpful.",teaching,positive
+2,"The techer does not explain the concepts well, and doubts are ignored.",teaching,negative
+3,"Lectures are engaging, but practical sessions are confusing.",teaching,mixed
+4,"The syllabus coverage is good and the professor is supportive.",teaching,positive
+5,"The exam timetable was changed late and the question paper was unfair.",examinations,negative
+6,"Marks were released on time and the evaluation was fair.",examinations,positive
+7,"The examination was not difficult, but the result portal is slow.",examinations;student_support,mixed
+8,"The internal marks are missing and the grading is inconsistent.",examinations,negative
+9,"The classroom fans are broken and the benches are uncomfortable.",infrastructure,negative
+10,"Wi-Fi is reliable and the lab equipment is working well.",infrastructure,positive
+11,"The washrooms are dirty, but the new drinking water facility is clean.",infrastructure,mixed
+12,"The library has enough books and a quiet reading room.",library,positive
+13,"The libary is crowded and many reference books are unavailable.",library,negative
+14,"Library hours are convenient, but borrowing books is difficult.",library,mixed
+15,"The scholarship help desk was responsive and supportive.",student_support,positive
+16,"My fee complaint was ignored and the student portal has errors.",student_support,negative
+17,"Career guidance is useful and placement support is improving.",student_support,positive
+18,"The teacher is helpful, but the examination paper was confusing.",teaching;examinations,mixed
+19,"The classroom is clean and the library is not overcrowded.",infrastructure;library,positive
+20,"The administration gave no response and the Wi-Fi is not working.",student_support;infrastructure,negative
+21,"The professor is not unhelpful and explains concepts clearly.",teaching,positive
+22,"The lab is not clean and the equipment is broken.",infrastructure,negative
+23,"The exam was good, although the marks are late.",examinations,mixed
+24,"The librarian is friendly and the library books are available.",library,positive
+25,"Student counselling is accessible, but the scholarship process is slow.",student_support,mixed
+26,"The library opens at 9 AM on weekdays.",library,neutral
+27,"The examination schedule is published on the portal.",examinations;student_support,neutral
+28,"The lab is good but the teacher is not helpful.",infrastructure;teaching,mixed
+29,"I never have trouble accessing the library.",library,neutral
+30,"The projector has not been fixed for weeks.",infrastructure,negative

@@ -1,0 +1,5 @@
+Cleaned text: the library is clean but the wifi is not working
+Topics: Infrastructure & Facilities, Library Services
+Sentiment: mixed
+Positive score: 1
+Negative score: 1
